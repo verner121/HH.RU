@@ -1,27 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="72d644c7-5cdb-4201-a455-895f5d8f9c1d" name="Changes" comment="" />
+    <list default="true" id="72d644c7-5cdb-4201-a455-895f5d8f9c1d" name="Changes" comment="проект 2">
+      <change afterPath="$PROJECT_DIR$/data/vacancies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user_interaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/user_interaction.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;verner121&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/verner121/HH.RU.git&quot;,
+    &quot;accountId&quot;: &quot;904a7e99-c781-4dff-b430-16c49c8c23b7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2tfTDMxDix2R9GCW1O5Uy1TNAcM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_headhunter_api.test_connect_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_headhunter_api.test_connect_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_headhunter_api.test_get_vacancies_failure.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_headhunter_api.test_get_vacancies_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_headhunter_api.test_headhunter_api_connect.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_headhunter_api.test_hh_api_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_saver.test_add_vacancy.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_saver_vacancy.test_add_invalid_vacancy.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_saver_vacancy.test_add_vacancies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_saver_vacancy.test_delete_vacancies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_saver_vacancy.test_get_vacancies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_vacancy_file.test_add_invalid_vacancy.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_vacancy_file.test_add_vacancies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_vacancy_file.test_delete_vacancies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_json_vacancy_file.test_get_vacancies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_create_vacancy_negative_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_create_vacancy_where_salary_to_more_salary_from.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_create_vacancy_without_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_create_vacancy_without_url.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_from_platform.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_gt_vacancy.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_lt_vacancy.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_name_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_salary_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_str_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_str_vacancy.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_url_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_vacancy_comparison_gt.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_vacancy_comparison_lt.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_vacancy_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_vacancy_lt.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_vacancy_str_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vacancy.test_validate_invalid_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_vacancy.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/hh.ru__1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HH.RU" />
       <option name="ENV_FILES" value="" />
@@ -44,6 +115,90 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_headhunter_api.test_get_vacancies_failure" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HH.RU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_headhunter_api.test_get_vacancies_failure&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_json_saver_vacancy.test_add_invalid_vacancy" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HH.RU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_json_saver_vacancy.test_add_invalid_vacancy&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_json_saver_vacancy.test_add_vacancies" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HH.RU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_json_saver_vacancy.test_add_vacancies&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_json_saver_vacancy.test_delete_vacancies" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HH.RU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_json_saver_vacancy.test_delete_vacancies&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_json_saver_vacancy.test_get_vacancies" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HH.RU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_json_saver_vacancy.test_get_vacancies&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_json_saver_vacancy.test_add_invalid_vacancy" />
+        <item itemvalue="Python tests.Python tests for test_json_saver_vacancy.test_delete_vacancies" />
+        <item itemvalue="Python tests.Python tests for test_json_saver_vacancy.test_get_vacancies" />
+        <item itemvalue="Python tests.Python tests for test_json_saver_vacancy.test_add_vacancies" />
+        <item itemvalue="Python tests.Python tests for test_headhunter_api.test_get_vacancies_failure" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -63,15 +218,15 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
