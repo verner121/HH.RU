@@ -41,9 +41,9 @@ def test_str_method(vacancy_python_developer):
     """Тест на метод __str__."""
 
     assert (
-        str(vacancy_python_developer) == "Вакансия: Python_developer,"
-        " Зарплата: 100000-120000,"
-        " URL: https://hh.ru/applicant/vacancy_response?vacancyId=117286365"
+            str(vacancy_python_developer) == "Вакансия: Python_developer,"
+                                             " Зарплата: 100000-120000,"
+                                             " URL: https://hh.ru/applicant/vacancy_response?vacancyId=117286365"
     )
 
 

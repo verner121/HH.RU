@@ -1,4 +1,3 @@
-import os
 from typing import NoReturn
 
 from src.headhunter_api import HHJobPlatform
@@ -11,7 +10,7 @@ from src.vacancy import Vacancy
 
 def user_interaction() -> NoReturn:
     platform = HHJobPlatform()
-    storage = JSONVacancyStorage('C:/Users/koval/PycharmProjects/HH.RU/vacancies.json')
+    storage = JSONVacancyStorage("C:/Users/koval/PycharmProjects/HH.RU/data/vacancies.json")
 
     if not platform.connect():
         print("Не удалось подключиться к API hh.ru")
